@@ -1,0 +1,16 @@
+{
+  "name": "react-system-seed",
+  "version": "0.0.1",
+  "main": "",
+  "scripts": {
+    "dev": "lite-server -c server.config.js"
+  },
+  "author": "serhiisol",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
