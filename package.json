@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "main": "",
   "scripts": {
-    "dev": "lite-server -c server.config.js"
+    "dev": "lite-server -c server.config.js",
+    "postinstall": "typings install"
   },
   "author": "serhiisol",
   "license": "MIT",
@@ -11,6 +12,7 @@
     "bootstrap": "^4.0.0-alpha.2"
   },
   "devDependencies": {
-    "lite-server": "^2.2.2"
+    "lite-server": "^2.2.2",
+    "typings": "0.8.1"
   }
 }
