@@ -1,4 +1,4 @@
-# ng2-system-seed
+#react-system-seed
 Seed project with systemjs integration 
 
 ## Run
@@ -6,7 +6,3 @@ Seed project with systemjs integration
 ```
 npm run dev
 ```
-
-## Info
-
-**@angular** dependencies needed just for typings (to remove issues from your IDE)
